@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola soy Edgar Orjuela 👋
 
 <p align="center">
   <img src="Banner.png" alt="Banner Edgar Orjuela" width="100%">
