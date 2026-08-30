@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="Banner.png" alt="Banner Edgar Orjuela" width="100%">
+  <img src="Banner.jpg" alt="Banner Edgar Orjuela" width="100%">
 </p>
 
 <p align="center">
