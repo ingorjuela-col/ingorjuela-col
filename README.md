@@ -64,6 +64,6 @@ Ingeniero de Sistemas y Especialista en Entornos Virtuales de Aprendizaje con **
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingorjuela-col&layout=compact&theme=radical&hide_border=true&locale=es" alt="Lenguajes más usados" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ingorjuela-col&theme=radical&no-frame=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 </p>
 
