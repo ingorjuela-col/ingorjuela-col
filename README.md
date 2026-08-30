@@ -51,16 +51,15 @@ Ingeniero de Sistemas y Especialista en Entornos Virtuales de Aprendizaje con **
 * ⚙️ **Administración Moodle & ITIL Foundation**[cite: 1]
 
  ---
- ### 📊 Mis estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ingorjuela-col&show_icons=true&theme=radical&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-</p>
+### 📊 Mis estadísticas en GitHub
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,r,tableau,git,github,vscode,markdown&theme=dark" alt="Mis Tecnologías" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingorjuela-col&theme=radical&hide_border=true&locale=es" width="100%" />
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingorjuela-col&theme=radical&hide_border=true&locale=es" width="100%" />
 </p>
