@@ -49,15 +49,3 @@ Ingeniero de Sistemas y Especialista en Entornos Virtuales de Aprendizaje con **
 * 🍎 **Google Educator Nivel 1**[cite: 1]
 * ⚙️ **Administración Moodle & ITIL Foundation**[cite: 1]
 
-### 📊 Mis Estadísticas en GitHub
-
-<table>
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=ingorjuela-col&show_icons=true&theme=radical&hide_border=true&locale=es" width="100%" /></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingorjuela-col&layout=compact&theme=radical&hide_border=true&locale=es" width="100%" /></td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingorjuela-col&theme=radical&hide_border=true&locale=es" width="100%" />
-</p>
