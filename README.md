@@ -63,15 +63,7 @@ Ingeniero de Sistemas y Especialista en Entornos Virtuales de Aprendizaje con **
 
 
 ---
-### 🚀 Tecnologías y Herramientas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,tableau,git,github,vscode,markdown&theme=dark" alt="Tecnologías" />
-</p>
-
----
-
-### 📈 Actividad y Enlaces
 
 <p align="center">
   <a href="https://www.linkedin.com/in/edgar-orjuela/">
