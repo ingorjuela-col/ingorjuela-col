@@ -62,3 +62,8 @@ Ingeniero de Sistemas y Especialista en Entornos Virtuales de Aprendizaje con **
 </p>
 
 
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingorjuela-col&layout=compact&theme=radical&hide_border=true&locale=es" alt="Lenguajes más usados" />
+</p>
+
