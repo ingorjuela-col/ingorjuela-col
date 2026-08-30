@@ -43,6 +43,19 @@ Ingeniero de Sistemas y Especialista en Entornos Virtuales de Aprendizaje con **
 
 ---
 
+### 📊 Mis Estadísticas en GitHub
+
+<table>
+  <tr>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=ingorjuela-col&show_icons=true&theme=radical&hide_border=true&locale=es" width="100%" /></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingorjuela-col&layout=compact&theme=radical&hide_border=true&locale=es" width="100%" /></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingorjuela-col&theme=radical&hide_border=true&locale=es" width="100%" />
+</p>
+
 ### 🏆 Certificaciones Destacadas
 * 🛡️ **Scrum Master**[cite: 1]
 * 🤖 **Microsoft IA e Innovación**[cite: 1]
