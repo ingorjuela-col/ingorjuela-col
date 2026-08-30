@@ -43,23 +43,24 @@ Ingeniero de Sistemas y Especialista en Entornos Virtuales de Aprendizaje con **
 
 ---
 
-### 📊 Mis estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ingorjuela-col&show_icons=true&theme=radical&hide_border=true&locale=es" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingorjuela-col&layout=compact&theme=radical&hide_border=true&locale=es" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingorjuela-col&theme=radical&hide_border=true&locale=es" width="100%" />
-</p>
 
 ### 🏆 Certificaciones Destacadas
 * 🛡️ **Scrum Master**[cite: 1]
 * 🤖 **Microsoft IA e Innovación**[cite: 1]
 * 🍎 **Google Educator Nivel 1**[cite: 1]
 * ⚙️ **Administración Moodle & ITIL Foundation**[cite: 1]
+
+  ### 📊 Mis estadísticas en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ingorjuela-col&show_icons=true&theme=radical&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,r,tableau,git,github,vscode,markdown&theme=dark" alt="Mis Tecnologías" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingorjuela-col&theme=radical&hide_border=true&locale=es" width="100%" />
+</p>
 
