@@ -17,18 +17,18 @@
 ---
 
 ### 👨‍💻 Sobre mí
-Ingeniero de Sistemas y Especialista en Entornos Virtuales de Aprendizaje con **más de 10 años de experiencia** liderando proyectos de transformación digital, administración de plataformas LMS y gestión tecnológica para instituciones educativas, organismos internacionales y entidades públicas[cite: 1]. Actualmente, curso una Maestría en Analítica de Datos para potenciar la toma de decisiones estratégicas a través de la información[cite: 1].
+Ingeniero de Sistemas y Especialista en Entornos Virtuales de Aprendizaje con **más de 10 años de experiencia** liderando proyectos de transformación digital, administración de plataformas LMS y gestión tecnológica para instituciones educativas, organismos internacionales y entidades públicas. Actualmente, curso una Maestría en Analítica de Datos para potenciar la toma de decisiones estratégicas a través de la información.
 
 ---
 
 ### 🚀 Experiencia Destacada
 
-* **🎓 Universidad El Bosque** — *Asistente de Proyectos (2023 - Actualidad)*[cite: 1]
-  * Coordinación tecnológica de programas de Educación Continua, administración de LMS y aseguramiento de calidad[cite: 1].
-* **🌐 Organización Internacional del Trabajo (OIT)** — *Líder de Datos (2024)*[cite: 1]
-  * Administración de plataformas virtuales, elaboración de indicadores y gestión de analítica de datos[cite: 1].
-* **🏢 Fundación Face IT** — *Líder de Proyectos TI (2015 - 2025)*[cite: 1]
-  * Dirección tecnológica de proyectos de formación virtual, tableros en Power BI y coordinación de equipos de soporte[cite: 1].
+* **🎓 Universidad El Bosque** — *Asistente de Proyectos (2023 - Actualidad).
+  * Coordinación tecnológica de programas de Educación Continua, administración de LMS y aseguramiento de calidad.
+* **🌐 Organización Internacional del Trabajo (OIT)** — *Líder de Datos (2024)*.
+  * Administración de plataformas virtuales, elaboración de indicadores y gestión de analítica de datos.
+* **🏢 Fundación Face IT** — *Líder de Proyectos TI (2015 - 2025)*.
+  * Dirección tecnológica de proyectos de formación virtual, tableros en Power BI y coordinación de equipos de soporte.
 
 ---
 
@@ -36,19 +36,19 @@ Ingeniero de Sistemas y Especialista en Entornos Virtuales de Aprendizaje con **
 
 | Área | Tecnologías / Habilidades |
 | :--- | :--- |
-| **LMS & E-Learning** | `Moodle` `Brightspace` `Chamilo` `LearnDash` `SCORM`[cite: 1] |
-| **Analítica & Datos** | `Power BI` `SQL` `Excel Avanzado` `Looker Studio` `Python` `R`[cite: 1] |
-| **Gestión & Marcos** | `Scrum` `ITIL` `Gestión de Proyectos` `QA` `Indicadores`[cite: 1] |
-| **Infraestructura** | `Microsoft 365` `Google Workspace`[cite: 1] |
+| **LMS & E-Learning** | `Moodle` `Brightspace` `Chamilo` `LearnDash` `SCORM`. |
+| **Analítica & Datos** | `Power BI` `SQL` `Excel Avanzado` `Looker Studio` `Python` `R`. |
+| **Gestión & Marcos** | `Scrum` `ITIL` `Gestión de Proyectos` `QA` `Indicadores`. |
+| **Infraestructura** | `Microsoft 365` `Google Workspace`. |
 
 ---
 
 
 ### 🏆 Certificaciones Destacadas
-* 🛡️ **Scrum Master**[cite: 1]
-* 🤖 **Microsoft IA e Innovación**[cite: 1]
-* 🍎 **Google Educator Nivel 1**[cite: 1]
-* ⚙️ **Administración Moodle & ITIL Foundation**[cite: 1]
+* 🛡️ **Scrum Master**.
+* 🤖 **Microsoft IA e Innovación**.
+* 🍎 **Google Educator Nivel 1**.
+* ⚙️ **Administración Moodle & ITIL Foundation**.
 
  ---
 ### 📊 Mis estadísticas en GitHub
